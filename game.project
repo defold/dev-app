@@ -1,0 +1,28 @@
+[project]
+title = Connect
+
+[bootstrap]
+main_collection = /connect/connect.collectionc
+
+[input]
+game_binding = /connect/game.input_bindingc
+
+[display]
+width = 1280
+height = 720
+
+[render]
+clear_color_red = 1.0
+clear_color_green = 1
+clear_color_blue = 1
+clear_color_alpha = 0
+
+[android]
+package = com.defold.devapp
+
+[osx]
+bundle_identifier = com.defold.devapp
+
+[ios]
+bundle_identifier = com.defold.devapp
+
