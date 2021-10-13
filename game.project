@@ -12,9 +12,9 @@ width = 1280
 height = 720
 
 [render]
-clear_color_red = 1.0
-clear_color_green = 1
-clear_color_blue = 1
+clear_color_red = 0.173
+clear_color_green = 0.184
+clear_color_blue = 0.204
 clear_color_alpha = 0
 
 [android]
