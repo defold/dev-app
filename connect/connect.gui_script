@@ -12,7 +12,7 @@ local function update_interface_list(self)
 end
 
 local function update_version(self)
-    gui.set_text(self.node_version, "Defold Version " .. self.ev.version .. "\n(SHA1: " .. self.ev.version_sha1 .. ")")
+    gui.set_text(self.node_version, "Defold " .. self.ev.version .. " (SHA1: " .. self.ev.version_sha1 .. ")")
 end
 
 function init(self)
