@@ -1,5 +1,5 @@
 [project]
-title = Connect
+title = dmengine
 
 [bootstrap]
 main_collection = /connect/connect.collectionc
